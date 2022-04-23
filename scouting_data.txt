@@ -1,0 +1,687 @@
+4/21/2022	1	2481	Aditya	0	4	0	17	Traversal Rung
+4/21/2022	1	2506	Angela	0	1	1	5	Traversal Rung
+4/21/2022	1	2590	Agastya	0	3	0	3	Traversal Rung
+4/21/2022	1	2959	Abhishek	0	3	0	10	Mid Rung
+4/21/2022	1	8898	Aishwarya	0	0	0	0	Did not climb
+4/21/2022	2	4329	Akash	0	3	0	7	Mid Rung
+4/21/2022	2	1745	Aditya 	0	0	4	0	Traversal Rung
+4/21/2022	2	1756	Angela	0	2	0	13	Mid Rung
+4/21/2022	2	118	Agastya	0	1	0	26	Traversal Rung
+4/21/2022	2	5612	Abhishek	0	1	0	0	Did not climb
+4/21/2022	2	86	Aishwarya 	0	0	0	2	Did not climb
+4/21/2022	3	3476	Akash 	0	4	0	11	Traversal Rung
+4/21/2022	3	3414	Aditya 	0	0	0	7	Did not climb
+4/21/2022	3	5114	Agastya	0	4	0	9	High Rung
+4/21/2022	3	4381	Angela	0	2	0	9	Mid Rung
+4/21/2022	3	3256	Abhishek	0	0	2	0	Did not climb
+4/21/2022	3	6413	Aishwarya	0	0	0	0	Did not climb
+4/21/2022	4	2438	Akash	0	1	0	4	Mid Rung
+4/21/2022	4	2638	Aditya	0	0	0	5	Traversal Rung
+4/21/2022	4	2147	Agastya	0	2	0	13	Did not climb
+4/21/2022	4	3970	Aishwarya	0	0	0	10	Did not climb
+4/21/2022	4	2168	Abhishek	0	1	0	6	Traversal Rung
+4/21/2022	4	2601	Angela	0	2	0	6	Mid Rung
+4/21/2022	5	5809	Akash	0	1	0	5	Did not climb
+4/21/2022	5	5422	Aditya	0	0	0	2	Mid Rung
+4/21/2022	5	5089	Agastya	0	1	5	0	Low Rung
+4/21/2022	5	6672	Angela	0	5	0	10	Traversal Rung
+4/21/2022	5	2556	Abhishek	0	3	0	10	Traversal Rung
+4/21/2022	5	1477	Aishwarya 	0	1	0	9	Did not climb
+4/21/2022	6	8122	Akash	0	1	0	6	Traversal Rung
+4/21/2022	6	3504	Aditya 	0	0	0	6	Mid Rung
+4/21/2022	6	4415	Angela	0	3	0	9	Traversal Rung
+4/21/2022	6	857	Agastya	0	0	0	2	Traversal Rung
+4/21/2022	6	1918	Abhishek	0	1	0	4	Traversal Rung
+4/21/2022	6	8841	Aishwarya	0	2	0	7	Traversal Rung
+4/21/2022	7	316	Anish 	0	2	0	3	Traversal Rung
+4/21/2022	7	2586	Karan😏	0	2	0	0	Traversal Rung
+4/21/2022	7	254	Justin	0	4	0	19	Traversal Rung
+4/21/2022	7	401	Celine	0	2	0	19	Mid Rung
+4/21/2022	7	2974	Jerro	0	1	1	18	Mid Rung
+4/21/2022	7	1816	Brandon	0	3	0	0	Did not climb
+4/21/2022	8	3459	Anish 	0	0	0	2	Mid Rung
+4/21/2022	8	2557	Karan😈	0	4	0	9	Traversal Rung
+4/21/2022	8	1732	Celine	0	2	0	11	Did not climb
+4/21/2022	8	599	Jerro	1	0	12	0	Did not climb
+4/21/2022	8	3937	Brandon	0	1	0	13	High Rung
+4/21/2022	8	8546	Justin	0	1	0	0	High Rung
+4/21/2022	9	4135	Karan🥶	0	2	0	0	Did not climb
+4/21/2022	9	498	Celine	0	0	0	8	High Rung
+4/21/2022	9	1023	Jerro	0	2	0	11	Did not climb
+4/21/2022	9	364	Brandon	0	4	0	8	Did not climb
+4/21/2022	9	2687	Justin	0	2	2	8	Traversal Rung
+4/21/2022	10	3166	Karan🤤	0	0	0	0	Did not climb
+4/21/2022	10	1828	Celine	0	1	0	7	Mid Rung
+4/21/2022	10	8590	Brandon	0	2	0	5	Did not climb
+4/21/2022	10	88	Jerro	0	4	0	4	Traversal Rung
+4/21/2022	10	3175	Justin	0	2	0	17	Did not climb
+4/21/2022	11	8153	Justin	1	0	0	0	Did not climb
+4/21/2022	11	1868	Brandon	0	0	0	0	Did not climb
+4/21/2022	11	1629	Celine	0	2	0	10	High Rung
+4/21/2022	11	1506	Anish	0	0	0	3	Did not climb
+4/21/2022	11	846	Jerro	0	4	0	4	Traversal Rung
+4/21/2022	11	2960	Karan💩	0	1	0	7	Traversal Rung
+4/21/2022	12	5086	Karan 	0	0	0	0	High Rung
+4/21/2022	12	3641	Anish	0	2	0	8	High Rung
+4/21/2022	12	1619	Brandon 	0	2	0	10	Traversal Rung
+4/21/2022	12	1731	Justin	0	0	0	8	Traversal Rung
+4/21/2022	12	1771	Jerro	0	4	0	15	Did not climb
+4/21/2022	12	694	Celine	0	2	0	17	Did not climb
+4/21/2022	13	2506	Niranjan	0	1	0	0	Did not climb
+4/21/2022	13	8573	Nandini	0	1	0	5	Mid Rung
+4/21/2022	13	1914	Monesh	0	3	0	10	Mid Rung
+4/21/2022	13	5903	Kaustubh	0	0	0	0	Did not climb
+4/21/2022	13	7541	Leah	0	2	0	9	Traversal Rung
+4/21/2022	13	2147	Lucky	0	2	0	9	Mid Rung
+4/21/2022	14	2481	Monesh	0	0	0	8	Did not climb
+4/21/2022	14	5809	Niranjan	0	1	0	6	Mid Rung
+4/21/2022	14	2438	Nandini	0	0	0	1	Traversal Rung
+4/21/2022	14	4329	Kaustubh	0	1	1	7	Did not climb
+4/21/2022	14	118	Lucky	0	4	0	24	Traversal Rung
+4/21/2022	14	8841	Leah	0	2	0	7	Traversal Rung
+4/21/2022	15	2556	Nandini	0	1	0	6	Traversal Rung
+4/21/2022	15	4415	Monesh	0	3	0	12	Traversal Rung
+4/21/2022	15	3970	Kaustubh	0	3	0	8	High Rung
+4/21/2022	15	8898	Niranjan	0	3	0	0	Did not climb
+4/21/2022	15	86	Lucky	0	2	0	6	High Rung
+4/21/2022	16	2601	Kaustubh	0	1	0	7	Traversal Rung
+4/21/2022	15	1816	Leah	0	2	0	4	Did not climb
+4/21/2022	16	3459	Monesh	0	2	0	0	High Rung
+4/21/2022	16	1918	Niranjan	0	2	0	6	Traversal Rung
+4/21/2022	16	401	Nandini	0	5	0	10	Did not climb
+4/21/2022	16	5612	Lucky	0	1	0	0	Mid Rung
+4/21/2022	16	5114	Leah	0	3	0	14	Traversal Rung
+4/21/2022	17	1477	Kaustubh	0	1	0	8	Traversal Rung
+4/21/2022	16	3256	Niranjan	0	1	0	7	Mid Rung
+4/21/2022	17	857	Leah	0	1	0	1	Traversal Rung
+4/21/2022	17	2638	Nandini 	0	1	0	1	Traversal Rung
+4/21/2022	17	2590	Monesh	0	2	0	11	Traversal Rung
+4/21/2022	17	364	Lucky	0	4	0	25	Did not climb
+4/21/2022	18	3175	Niranjan	0	2	0	11	High Rung
+4/21/2022	18	254	Nandini	0	3	0	19	Traversal Rung
+4/21/2022	18	5089	Monesh	0	2	0	8	Did not climb
+4/21/2022	18	3504	Kaustubh	0	1	0	9	Did not climb
+4/21/2022	18	1023	Leah	0	0	0	11	Did not climb
+4/21/2022	18	6413	Lucky	0	1	0	0	Did not climb
+4/21/2022	19	4786	shreyas	0	3	0	13	Mid Rung
+4/21/2022	19	3414	Pranav	0	3	0	5	Mid Rung
+4/21/2022	19	1506	Shovan	0	2	1	11	Did not climb
+4/21/2022	19	1868	Sophia 	0	0	0	0	Mid Rung
+4/21/2022	19	2168	Sanjana	0	2	0	5	Traversal Rung
+4/21/2022	19	599	Soumik	2	0	0	0	Did not climb
+4/21/2022	20	4135	Sanjana	0	2	0	6	Did not climb
+4/21/2022	20	3641	shreyas	0	1	0	10	Traversal Rung
+4/21/2022	20	2959	sophia	0	2	0	5	Mid Rung
+4/21/2022	20	694	Pranav	0	4	0	13	High Rung
+4/21/2022	20	4381	Soumik	0	5	0	9	Mid Rung
+4/21/2022	20	2974	Shovan	0	5	0	24	Mid Rung
+4/21/2022	21	2960	Shovan	0	0	0	14	Traversal Rung
+4/21/2022	21	1828	shreyas	0	2	0	0	Did not climb
+4/21/2022	21	5903	Pranav	0	2	0	2	Did not climb
+4/21/2022	21	498	sophia	0	0	0	5	High Rung
+4/21/2022	21	1732	Sanjana	0	2	0	8	Mid Rung
+4/21/2022	21	3476	Soumik	0	4	0	16	Traversal Rung
+4/21/2022	22	1629	shreyas	0	1	0	10	Traversal Rung
+4/21/2022	22	2586	Shovan	0	3	0	12	Traversal Rung
+4/21/2022	22	2687	sophia	0	3	0	14	Traversal Rung
+4/21/2022	22	7541	Pranav	0	0	0	3	Traversal Rung
+4/21/2022	22	8590	Sanjana	0	1	0	3	Mid Rung
+4/21/2022	22	3937	Soumik 	0	0	0	9	Did not climb
+4/21/2022	23	5086	Shovan	0	1	0	12	Traversal Rung
+4/21/2022	23	8546	shreyas	0	0	0	0	Traversal Rung
+4/21/2022	23	8573	Sophia 	0	1	0	4	High Rung
+4/21/2022	23	3166	Pranav	0	2	0	0	Did not climb
+4/21/2022	23	5724	Sanjana 	0	0	1	4	High Rung
+4/21/2022	23	5422	Soumik	0	0	0	6	Mid Rung
+4/21/2022	24	1745	Pranav	0	0	0	0	Did not climb
+4/21/2022	24	1756	Sanjana 	0	1	0	0	Did not climb
+4/21/2022	24	1619	sophia	0	3	0	16	Traversal Rung
+4/21/2022	24	8122	Soumik	0	2	0	5	Mid Rung
+4/21/2022	24	8153	Shovan	1	0	3	0	Traversal Rung
+4/21/2022	25	2557	Akash	0	3	0	8	Mid Rung
+4/21/2022	25	5705	Agastya	0	2	0	10	Mid Rung
+4/21/2022	25	1914	Abhishek	0	1	0	5	Mid Rung
+4/21/2022	26	118	Aditya 	0	4	0	16	High Rung
+4/21/2022	26	1918	Abhishek	0	1	0	5	Traversal Rung
+4/21/2022	27	3459	Aditya	0	0	0	0	High Rung
+4/21/2022	27	5089	Agastya	0	2	1	1	Mid Rung
+4/21/2022	27	2601	Abhishek	0	1	0	3	Did not climb
+4/21/2022	28	2556	Aditya 	0	2	0	5	High Rung
+4/21/2022	28	8590	Agastya	0	2	0	0	Traversal Rung
+4/21/2022	28	2506	Abhishek	0	3	0	0	Did not climb
+4/21/2022	29	2959	shreyas	0	2	0	7	High Rung
+4/21/2022	29	86	Aditya 	0	1	0	4	High Rung
+4/21/2022	29	401	Justin (filling in for srushti)	0	4	0	4	High Rung
+4/21/2022	29	599	Leah	2	0	0	1	Mid Rung
+4/21/2022	29	1828	Agastya	0	2	0	6	Low Rung
+4/21/2022	29	1023	Abhishek	0	2	0	7	Did not climb
+4/21/2022	30	4381	Leah	0	2	0	7	Did not climb
+4/21/2022	30	3175	shreyas	0	1	0	15	High Rung
+4/21/2022	30	1732	Vardani	0	5	0	12	High Rung
+4/21/2022	30	7541	Abhishek	0	2	0	3	High Rung
+4/21/2022	30	3970	Agastya	0	2	0	10	Mid Rung
+4/21/2022	31	4329	Justin	0	5	0	9	Did not climb
+4/21/2022	31	4786	Jerro	0	1	0	5	Traversal Rung
+4/21/2022	31	3504	Celine 	0	1	0	7	Mid Rung
+4/21/2022	31	2960	Vardani	0	1	0	3	High Rung
+4/21/2022	31	3476	Brandon	0	4	0	6	Traversal Rung
+4/21/2022	31	2687	Angela	0	4	0	5	Did not climb
+4/21/2022	32	5612	Jerro	0	1	0	0	Mid Rung
+4/21/2022	32	5422	Celine	0	0	1	3	Traversal Rung
+4/21/2022	32	3937	Angela	0	4	0	7	Traversal Rung
+4/21/2022	32	3256	Justin	0	3	0	7	Low Rung
+4/21/2022	32	8153	Brandon 	1	0	3	0	Mid Rung
+4/21/2022	32	2147	Vardani	0	2	0	13	Did not climb
+4/21/2022	33	5086	Celine 	0	2	0	8	Mid Rung
+4/21/2022	33	2974	Jerro	0	4	1	3	Traversal Rung
+4/21/2022	33	1629	Justin	0	0	0	1	Traversal Rung
+4/21/2022	33	8122	Vardani 	0	2	0	6	Did not climb
+4/21/2022	33	5809	Angela	0	1	0	2	Did not climb
+4/21/2022	33	1914	Brandon	0	1	0	6	Mid Rung
+4/21/2022	34	498	Celine 	0	0	0	0	Did not climb
+4/21/2022	34	846	Brandon	0	1	0	10	High Rung
+4/21/2022	34	8573	Vardani	0	2	0	4	Did not climb
+4/21/2022	34	3641	Justin	0	0	0	9	Traversal Rung
+4/21/2022	34	1756	Jerro	0	5	0	15	Mid Rung
+4/21/2022	34	5114	Angela	0	6	0	6	High Rung
+4/21/2022	35	364	Celine 	0	3	0	14	Mid Rung
+4/21/2022	35	8841	Brandon	0	1	0	0	Traversal Rung
+4/21/2022	35	1477	Vardani	0	2	0	7	Did not climb
+4/21/2022	35	1771	Jerro	0	2	0	18	Mid Rung
+4/21/2022	35	5705	Justin	0	2	1	0	Did not climb
+4/21/2022	35	88	Angela	0	2	0	4	Traversal Rung
+4/21/2022	36	5724	Brandon 	0	2	0	8	Low Rung
+4/21/2022	36	5903	Jerro	0	0	0	3	Did not climb
+4/21/2022	36	2557	Celine 	0	1	0	6	Traversal Rung
+4/21/2022	36	1731	Angela	0	2	0	6	Did not climb
+4/21/2022	36	8590	Justin	0	2	0	1	Mid Rung
+4/21/2022	37	316	Monesh 	0	2	0	9	Traversal Rung
+4/21/2022	37	8898	Karan😻	0	0	0	0	Did not climb
+4/21/2022	37	8546	Leah	0	0	0	0	Did not climb
+4/21/2022	37	1868	Lucky	0	2	0	2	Mid Rung
+4/21/2022	37	1619	Nandini 	0	3	0	19	Did not climb
+4/21/2022	38	1745	Nandini	2	0	12	0	Traversal Rung
+4/21/2022	38	6672	Kaustubh 	0	0	0	11	Did not climb
+4/21/2022	38	2586	Karan🤌🏾	0	3	0	0	Traversal Rung
+4/21/2022	38	1816	Leah	0	1	0	6	Did not climb
+4/21/2022	38	4135	Monesh	0	2	0	0	Did not climb
+4/21/2022	38	2438	Lucky	0	1	0	5	Traversal Rung
+4/21/2022	39	2506	Monesh	0	2	0	5	Traversal Rung
+4/21/2022	39	1732	Nandini	0	3	0	23	Did not climb
+4/21/2022	39	401	Kaustubh	0	2	0	9	Mid Rung
+4/21/2022	39	3414	Karan🦶🏾	0	2	0	2	Did not climb
+4/21/2022	39	2556	Leah	0	2	0	2	Mid Rung
+4/21/2022	39	118	Lucky	0	2	0	18	Traversal Rung
+4/21/2022	37	3166	Kaustubh	0	0	0	0	Did not climb
+4/21/2022	40	3256	Karan👅	0	2	0	4	Did not climb
+4/21/2022	40	3504	Nandini 	0	2	0	4	Mid Rung
+4/21/2022	40	4786	Kaustubh	0	1	0	7	Traversal Rung
+4/21/2022	40	1918	Leah	0	2	0	6	Did not climb
+4/21/2022	40	2481	Lucky	0	4	0	16	High Rung
+4/21/2022	40	86	Monesh	0	2	0	8	Traversal Rung
+4/21/2022	41	8153	Kaustubh	0	0	0	0	Did not climb
+4/21/2022	41	1914	Karan👶	0	1	0	9	High Rung
+4/21/2022	41	3970	Nandini	0	2	0	9	High Rung
+4/21/2022	41	599	Monesh	0	0	0	0	Low Rung
+4/21/2022	41	6413	Leah	0	1	0	1	Mid Rung
+4/21/2022	51	2590	Lucky	0	2	0	10	Traversal Rung
+4/21/2022	42	254	Nandini	0	4	0	20	Traversal Rung
+4/21/2022	42	8122	Karan😩	1	0	0	8	Mid Rung
+4/21/2022	42	2168	Kaustubh	0	4	0	12	Traversal Rung
+4/21/2022	42	2147	Monesh	0	2	0	13	Did not climb
+4/21/2022	42	2687	Lucky	0	2	0	4	Traversal Rung
+4/21/2022	42	5086	Leah	0	2	0	8	Mid Rung
+4/21/2022	43	846	Niranjan	0	4	0	18	Traversal Rung
+4/21/2022	43	4329	Shovan	0	5	0	9	Did not climb
+4/21/2022	43	1828	sophia 	0	2	0	9	Mid Rung
+4/21/2022	43	3937	shreyas	0	1	0	15	Traversal Rung
+4/21/2022	43	3641	Sanjana	0	0	0	5	Traversal Rung
+4/21/2022	44	857	sophia	0	1	0	10	Traversal Rung
+4/21/2022	44	498	Shovan	0	2	0	7	High Rung
+4/21/2022	44	2601	Niranjan	0	3	0	8	Mid Rung
+4/21/2022	44	5422	Sanjana	0	3	0	6	Mid Rung
+4/21/2022	45	8573	Niranjan	0	0	0	0	Did not climb
+4/21/2022	45	2557	Shovan	0	1	0	11	High Rung
+4/21/2022	45	3476	Agastya (for Shreyas)	0	2	0	1	Mid Rung
+4/21/2022	45	2974	Sanjana	0	3	0	4	High Rung
+4/21/2022	45	364	sophia	0	3	0	16	Did not climb
+4/21/2022	46	2586	Shovan	0	3	0	8	Traversal Rung
+4/21/2022	46	1731	sophia 	0	0	0	5	Traversal Rung
+4/21/2022	47	3175	Niranjan	0	2	0	11	Low Rung
+4/21/2022	46	1868	Sanjana	0	1	0	4	High Rung
+4/21/2022	46	3459	Agastya (for Shreyas)	0	0	0	0	Did not climb
+4/21/2022	47	1629	Niranjan	0	2	0	9	Traversal Rung
+4/21/2022	47	5612	Shovan	0	1	0	0	Low Rung
+4/21/2022	47	88	Agastya for Shreyas	0	3	2	6	Traversal Rung
+4/21/2022	46	5612	Shovan	0	1	0	0	Low Rung
+4/21/2022	47	2438	sophia 	0	2	0	7	Mid Rung
+4/21/2022	47	2959	Sanjana	0	0	0	6	Mid Rung
+4/21/2022	48	3166	Shovan	0	1	0	0	Did not climb
+4/21/2022	48	2960	sophia	0	2	0	10	Did not climb
+4/21/2022	48	4135	Niranjan	0	0	0	8	High Rung
+4/21/2022	48	4415	Pranav	0	3	0	8	Traversal Rung
+4/21/2022	48	7541	Sanjana	0	0	0	7	Traversal Rung
+4/21/2022	48	1619	Agastya (for Shreyas)	0	3	0	16	High Rung
+4/21/2022	49	5705	Soumik 	0	0	0	1	Did not climb
+4/21/2022	49	5809	Aditya 	0	1	0	4	Mid Rung
+4/21/2022	49	8546	Agastya	0	0	0	0	Traversal Rung
+4/21/2022	49	1756	Srushti	0	2	0	10	High Rung
+4/21/2022	49	2638	Justin	0	0	12	0	Mid Rung
+4/21/2022	49	4381	Abhishek	0	2	0	4	High Rung
+4/21/2022	50	1023	Justin	0	1	0	4	Did not climb
+4/21/2022	50	1506	Aditya 	0	2	0	14	Mid Rung
+4/21/2022	50	316	Agastya	0	4	0	15	Mid Rung
+4/21/2022	50	1745	Srushti	0	0	6	0	Traversal Rung
+4/21/2022	50	8590	Soumik	0	2	0	4	Low Rung
+4/21/2022	50	8841	Abhishek	0	4	0	7	High Rung
+4/21/2022	51	5724	Justin	0	2	0	6	High Rung
+4/21/2022	51	6672	Aditya 	0	1	0	4	Mid Rung
+4/21/2022	51	1816	Soumik	0	2	0	0	High Rung
+4/21/2022	51	1828	Agastya	0	2	0	6	Did not climb
+4/21/2022	51	2168	Abhishek	0	2	0	13	Traversal Rung
+4/21/2022	51	694	Srushti	0	5	0	10	Did not climb
+4/21/2022	52	254	Aditya 	0	5	0	17	Traversal Rung
+4/21/2022	52	498	Jerro	0	0	0	0	Traversal Rung
+4/21/2022	52	3937	Soumik 	0	1	0	2	Traversal Rung
+4/21/2022	52	4786	Abhishek	0	1	0	2	Traversal Rung
+4/21/2022	52	8153	Agastya	0	0	0	0	Did not climb
+4/21/2022	36	2638	Aishwarya	1	1	1	8	High Rung
+4/21/2022	53	2974	Aditya 	0	3	0	19	Mid Rung
+4/21/2022	53	6413	Abhishek	0	0	0	0	Did not climb
+4/21/2022	54	846	Srushti	0	2	0	26	Did not climb
+4/21/2022	53	8898	Soumik 	0	1	0	0	Did not climb
+4/21/2022	53	5422	Aditya 	0	1	0	3	Traversal Rung
+4/21/2022	53	1732	Aishwarya	0	4	0	4	Did not climb
+4/21/2022	55	3970	Srushti	0	0	0	11	Did not climb
+4/21/2022	54	2557	Soumik	0	2	0	10	Did not climb
+4/21/2022	54	2590	Agastya	0	2	0	10	Traversal Rung
+4/21/2022	54	4329	Abhishek	0	1	0	5	Did not climb
+4/21/2022	54	3414	Aishwarya	0	0	0	0	Did not climb
+4/21/2022	55	1868	Akash	0	1	0	6	High Rung
+4/21/2022	55	2438	Celine	0	1	0	4	High Rung
+4/21/2022	55	3504	Anish	0	2	0	8	Mid Rung
+4/21/2022	55	5086	Brandon	0	2	1	6	Mid Rung
+4/21/2022	55	401	Angela	0	4	0	10	High Rung
+4/21/2022	55	8573	Jerro	0	0	0	3	Low Rung
+4/21/2022	56	5612	Angela	0	2	0	0	Did not climb
+4/21/2022	56	5903	Celine	0	0	0	0	Mid Rung
+4/21/2022	56	364	Brandon	0	4	0	10	Traversal Rung
+4/21/2022	56	8122	Akash	0	3	0	6	Mid Rung
+4/21/2022	56	4135	Jerro	0	1	0	4	Mid Rung
+4/21/2022	56	5089	Anish	0	2	0	5	Mid Rung
+4/21/2022	57	5114	Jerro	0	5	0	11	Did not climb
+4/21/2022	57	1771	Akash 	0	3	0	8	Mid Rung
+4/21/2022	57	8546	Brandon	0	1	0	0	High Rung
+4/21/2022	57	86	Celine	0	2	0	6	Traversal Rung
+4/21/2022	57	3175	Angela	0	4	0	12	Low Rung
+4/21/2022	57	2687	Anish	0	1	0	6	High Rung
+4/21/2022	58	1731	Anish	0	2	0	10	Traversal Rung
+4/21/2022	58	3256	Akash	0	5	0	8	Did not climb
+4/21/2022	58	8841	Brandon	0	3	0	6	Did not climb
+4/21/2022	58	2960	AngelAAAAAAAAA	0	3	0	6	High Rung
+4/21/2022	58	2556	Jerro	0	1	0	8	Traversal Rung
+4/21/2022	59	6672	Akash	0	3	0	7	High Rung
+4/21/2022	59	4415	Jerro	0	2	0	11	High Rung
+4/21/2022	58	2959	Celine	0	1	0	7	Low Rung
+4/21/2022	60	4381	Angela 	0	3	0	5	Did not climb
+4/21/2022	59	1619	Brandon	0	3	2	13	Traversal Rung
+4/21/2022	59	1023	Lucky	0	2	0	20	Did not climb
+4/21/2022	60	8590	Celine	0	1	0	6	Mid Rung
+4/21/2022	60	1506	Brandon	0	2	0	17	Did not climb
+4/21/2022	62	2586	Angela	0	2	0	5	Traversal Rung
+4/21/2022	60	5809	Akash	0	4	0	8	Traversal Rung
+4/21/2022	60	1914	Jerro	2	1	0	8	High Rung
+4/21/2022	61	3166	Leah	0	1	0	0	Did not climb
+4/21/2022	41	599	Karan👺	0	0	1	0	Did not climb
+4/21/2022	61	1756	Kaustubh	0	3	0	13	High Rung
+4/21/2022	61	2601	Lucky	0	0	0	6	Traversal Rung
+4/21/2022	61	2506	Monesh	0	4	0	7	High Rung
+4/21/2022	61	1477	Jerro	0	2	0	11	High Rung
+4/21/2022	62	3459	Karan🙏	0	2	0	2	Mid Rung
+4/21/2022	62	3476	Justin	0	4	0	14	Mid Rung
+4/21/2022	62	5705	Kaustubh	0	1	0	1	Did not climb
+4/21/2022	62	1745	Monesh	2	0	7	0	Did not climb
+4/21/2022	62	1629	Lucky	0	2	0	5	Traversal Rung
+4/21/2022	62	857	Leah	0	2	0	0	Traversal Rung
+4/21/2022	63	7541	Monesh	0	1	0	9	Traversal Rung
+4/21/2022	63	3641	Lucky	0	5	0	6	Mid Rung
+4/21/2022	63	88	Karan👾	0	2	0	8	Traversal Rung
+4/21/2022	63	316	Kaustubh	0	1	0	8	Did not climb
+4/21/2022	63	118	Justin	0	4	0	20	Traversal Rung
+4/21/2022	63	5724	Leah	0	1	2	5	Did not climb
+4/21/2022	64	5089	Karan😾🤌🏾	0	2	0	13	Mid Rung
+4/21/2022	64	1868	Kaustubh	0	1	0	0	Mid Rung
+4/21/2022	64	2974	Monesh	0	3	0	15	Did not climb
+4/21/2022	64	2147	Justin	0	2	1	7	Did not climb
+4/21/2022	64	1816	Leah	0	4	0	0	Traversal Rung
+4/21/2022	64	2590	Lucky	0	1	0	7	Traversal Rung
+4/21/2022	65	846	Monesh	0	4	0	2	Traversal Rung
+4/21/2022	65	8546	Kaustubh	0	0	0	0	Did not climb
+4/21/2022	65	8122	Leah	0	2	0	7	Mid Rung
+4/21/2022	65	401	Justin	0	3	0	8	Mid Rung
+4/21/2022	65	4135	Lucky	0	1	1	10	Mid Rung
+4/21/2022	65	3970	Karan🤜🏽	0	3	0	10	Mid Rung
+4/21/2022	66	5903	Kaustubh	0	0	0	0	Mid Rung
+4/21/2022	66	3256	Karan💄	0	1	0	8	Traversal Rung
+4/21/2022	66	3175	Monesh	0	3	0	13	Mid Rung
+4/21/2022	66	4329	Justin	0	1	2	14	Did not climb
+4/21/2022	66	8898	Lucky	0	0	0	0	Did not climb
+4/21/2022	66	2168	Leah	0	4	0	9	Did not climb
+4/22/2022	67	498	shreyas	0	0	0	14	Mid Rung
+4/22/2022	67	1619	Nandini	0	4	0	19	Traversal Rung
+4/22/2022	67	6413	Sanjana 	0	2	0	10	High Rung
+4/22/2022	67	86	Niranjan	0	1	0	6	Traversal Rung
+4/22/2022	67	5086	Pranav😏	0	2	0	4	Did not climb
+4/22/2022	67	8841	Shovan	0	2	0	4	High Rung
+4/22/2022	68	8573	Pranav	0	1	0	1	Did not climb
+4/22/2022	68	2960	Shovan	0	2	0	5	Mid Rung
+4/22/2022	68	1771	shreyas	0	4	0	26	High Rung
+4/22/2022	68	1023	Niranjan	0	4	0	12	Did not climb
+4/22/2022	68	5809	Nandini	0	1	0	9	Did not climb
+4/22/2022	68	5612	Sanjana 	0	1	0	0	Low Rung
+4/22/2022	69	2438	shreyas	0	1	0	2	Traversal Rung
+4/22/2022	69	4381	Niranjan	0	3	0	14	Mid Rung
+4/22/2022	69	3937	Pranav	0	2	0	17	Traversal Rung
+4/22/2022	69	3166	Nandini	0	1	0	0	Did not climb
+4/22/2022	69	1918	Sanjana 	0	1	0	4	Did not climb
+4/22/2022	69	2687	Shovan	0	1	0	6	Traversal Rung
+4/22/2022	70	8153	Pranav🍆	0	1	0	0	Did not climb
+4/22/2022	70	2557	Niranjan	0	4	0	12	Mid Rung
+4/22/2022	70	1828	Nandini	0	1	0	6	Did not climb
+4/22/2022	70	2586	shreyas 	0	3	0	9	Traversal Rung
+4/22/2022	70	5705	Shovan	0	2	0	6	Did not climb
+4/22/2022	70	2601	Sanjana	0	1	0	8	Traversal Rung
+4/22/2022	71	254	Nandini	0	5	0	19	Traversal Rung
+4/22/2022	71	2959	Niranjan	0	2	0	0	Did not climb
+4/22/2022	71	5724	shreyas	0	2	0	8	Mid Rung
+4/22/2022	71	857	Shovan	0	1	0	0	Traversal Rung
+4/22/2022	71	1756	Sanjana	0	4	0	9	Did not climb
+4/22/2022	71	3414	Pranav	0	1	0	7	Did not climb
+4/22/2022	72	599	Nandini 	1	0	0	0	Mid Rung
+4/22/2022	72	2147	Niranjan	0	2	0	14	Did not climb
+4/22/2022	72	694	shreyas	0	6	0	12	High Rung
+4/22/2022	72	118	Shovan	0	1	0	23	Mid Rung
+4/22/2022	72	88	Pranav	0	4	0	7	Traversal Rung
+4/22/2022	72	3476	Sanjana	0	0	0	9	Traversal Rung
+4/22/2022	73	3504	Aditya 	0	2	0	8	Did not climb
+4/22/2022	73	8590	Agastya	0	0	0	0	Mid Rung
+4/22/2022	73	6672	Soumik 	0	2	0	11	High Rung
+4/22/2022	73	2506	sophia	0	1	0	9	High Rung
+4/22/2022	73	5114	Abhishek	0	5	0	5	High Rung
+4/22/2022	74	1731	Akash	0	1	0	7	High Rung
+4/22/2022	74	1732	Karan👅	0	3	0	16	Did not climb
+4/22/2022	74	4415	Aditya 	0	5	0	0	Did not climb
+4/22/2022	74	316	Sophia	0	2	0	15	Traversal Rung
+4/22/2022	75	5422	Akash	0	1	0	8	High Rung
+4/22/2022	75	3641	Aditya 	0	2	0	14	Did not climb
+4/22/2022	75	1506	Karan	0	2	0	12	Did not climb
+4/22/2022	75	2638	Srushti	0	2	0	11	Traversal Rung
+4/22/2022	75	1816	sophia	0	1	0	14	Traversal Rung
+4/22/2022	76	7541	Agastya	0	2	1	7	Traversal Rung
+4/22/2022	76	1914	Akash	0	3	0	10	High Rung
+4/22/2022	76	2556	Aditya 	0	1	0	5	Traversal Rung
+4/22/2022	76	364	sophia	0	5	0	14	Traversal Rung
+4/22/2022	76	4786	Karan💀	0	2	0	7	Traversal Rung
+4/22/2022	77	3166	Karan🥰	0	2	0	4	Did not climb
+4/22/2022	77	401	Akash	0	0	0	14	Mid Rung
+4/22/2022	77	2168	Aditya 	0	1	0	5	Traversal Rung
+4/22/2022	77	3256	Agastya	0	3	0	15	Traversal Rung
+4/22/2022	77	2168	wayne	0	4	0	4	Traversal Rung
+4/22/2022	77	498	sophia 	0	2	0	15	High Rung
+4/22/2022	78	5705	Akash	0	2	0	7	Did not climb
+4/22/2022	78	4329	Aditya 	0	2	0	14	Did not climb
+4/22/2022	78	8573	Agastya	0	2	0	5	High Rung
+4/22/2022	78	5705	Vardani	0	1	0	2	Did not climb
+4/22/2022	78	8573	Agastya	0	3	0	8	High Rung
+4/22/2022	78	4135	sophia	0	1	0	8	Mid Rung
+4/22/2022	78	6413	Soumik 	0	2	0	5	Mid Rung
+4/22/2022	78	1771	Abhishek	0	6	0	17	High Rung
+4/22/2022	79	3414	Akash	0	4	0	10	Did not climb
+4/22/2022	79	8153	Celine	1	0	4	0	Did not climb
+4/22/2022	79	2586	Anish	0	3	0	6	Traversal Rung
+4/22/2022	79	8898	Angela	0	0	0	4	Did not climb
+4/22/2022	80	2557	Celine	0	2	0	14	Traversal Rung
+4/22/2022	80	254	Akash	0	1	0	12	Did not climb
+4/22/2022	80	846	Anish 	0	3	0	15	Traversal Rung
+4/22/2022	80	2438	Angela	0	0	0	8	Mid Rung
+4/22/2022	80	694	Aishwarya	0	2	0	14	High Rung
+4/22/2022	81	1745	Anish	1	0	2	0	Traversal Rung
+4/22/2022	81	2974	Akash	0	2	0	12	Did not climb
+4/22/2022	81	3937	Celine	0	2	0	12	Mid Rung
+4/22/2022	80	86	Brandon	0	1	1	7	Traversal Rung
+4/22/2022	81	2601	Angela	0	0	0	0	Traversal Rung
+4/22/2022	82	1619	Akash	0	2	0	20	Mid Rung
+4/22/2022	82	2147	Celine	0	2	0	14	Did not climb
+4/22/2022	82	1918	Brandon	0	2	0	10	Traversal Rung
+4/22/2022	81	2960	Aishwarya	0	2	0	6	Traversal Rung
+4/22/2022	82	8590	Anish	0	2	0	1	Mid Rung
+4/22/2022	82	1732	Angela	0	6	0	12	Mid Rung
+4/22/2022	82	2959	Aishwarya	0	2	0	6	High Rung
+4/22/2022	83	8841	Celine 	0	3	0	9	Mid Rung
+4/22/2022	83	3641	Akash	0	2	0	11	Traversal Rung
+4/22/2022	83	2687	Angela	0	2	0	3	Traversal Rung
+4/22/2022	83	5903	Anish	0	1	0	0	Did not climb
+4/22/2022	83	599	Aishwarya	0	0	0	0	Low Rung
+4/22/2022	83	6672	Brandon😩	0	2	0	10	Traversal Rung
+4/22/2022	84	2506	Akash	0	0	0	0	Mid Rung
+4/22/2022	84	1731	Brandon 	0	3	1	7	Traversal Rung
+4/22/2022	84	1506	Celine	0	2	0	13	Did not climb
+4/22/2022	84	4415	Aishwarya	0	2	0	11	Mid Rung
+4/22/2022	84	5422	Agastya	0	2	0	4	Traversal Rung
+4/22/2022	84	364	Angela	0	5	0	19	Traversal Rung
+4/22/2022	85	5114	Kaustubh 	0	5	1	9	Traversal Rung
+4/22/2022	85	857	Justin	0	1	7	0	Traversal Rung
+4/22/2022	85	1816	Karan😶‍🌫️	0	1	0	4	Traversal Rung
+4/22/2022	85	8546	Jerro	0	0	0	0	Did not climb
+4/22/2022	85	1914	Lucky	0	1	0	6	Mid Rung
+4/22/2022	85	118	Leah	0	2	0	17	High Rung
+4/22/2022	86	1477	Kaustubh	0	2	0	7	Traversal Rung
+4/22/2022	86	1023	Karan😵‍💫	0	2	0	19	Did not climb
+4/22/2022	86	7541	Leah	2	0	0	1	Did not climb
+4/22/2022	86	2481	Lucky	0	4	0	16	Traversal Rung
+4/22/2022	86	5612	Abhishek (subbing for Justin)	0	1	0	0	Did not climb
+4/22/2022	86	3476	Jerro	0	4	0	12	Traversal Rung
+4/22/2022	87	8122	Karan🤧	0	1	0	4	High Rung
+4/22/2022	87	4381	Kaustubh	0	2	0	6	Mid Rung
+4/22/2022	87	1629	Justin	0	1	0	4	Traversal Rung
+4/22/2022	87	4786	Lucky	0	1	0	5	Traversal Rung
+4/22/2022	87	5724	Leah	0	2	0	13	Mid Rung
+4/22/2022	87	2590	Jerro	0	2	0	10	High Rung
+4/22/2022	88	316	Kaustubh	0	3	0	13	Traversal Rung
+4/22/2022	88	3970	Karan🤤	2	0	0	12	Traversal Rung
+4/22/2022	88	1756	Justin	0	3	0	19	High Rung
+4/22/2022	88	1828	Jerro	0	1	0	2	Did not climb
+4/22/2022	88	3504	Lucky	0	2	0	8	Mid Rung
+4/22/2022	88	3459	Leah	0	2	0	1	High Rung
+4/22/2022	89	2638	Kaustubh	0	2	5	1	Traversal Rung
+4/22/2022	89	254	Karan🤐	0	5	0	24	Mid Rung
+4/22/2022	89	88	Justin	0	2	0	6	Traversal Rung
+4/22/2022	89	4135	Lucky	0	0	0	8	Did not climb
+4/22/2022	89	2556	Jerro	0	0	0	8	Traversal Rung
+4/22/2022	89	1868	Leah	0	1	0	1	High Rung
+4/22/2022	76	3459	Srushti	0	0	0	0	Mid Rung
+4/22/2022	90	3414	Kaustubh	0	1	0	8	High Rung
+4/22/2022	90	8590	Lucky	0	0	0	4	Low Rung
+4/22/2022	90	86	Jerro	0	0	0	10	Did not climb
+4/22/2022	90	2168	Justin	0	1	0	15	High Rung
+4/22/2022	90	846	Leah	0	1	0	15	High Rung
+4/22/2022	90	1771	Karan👄	0	2	0	7	High Rung
+4/22/2022	91	599	Shovan	1	0	3	0	Mid Rung
+4/22/2022	91	3256	Akash	0	2	0	7	Traversal Rung
+4/22/2022	91	2974	Niranjan	0	5	0	13	Did not climb
+4/22/2022	91	2438	Monesh	0	1	0	0	Mid Rung
+4/22/2022	91	1732	Pranav	0	3	0	9	Low Rung
+4/22/2022	93	6413	Monesh	0	3	0	11	Traversal Rung
+4/22/2022	94	401	Justin	0	2	0	15	High Rung
+4/22/2022	94	5089	Monesh	0	5	0	8	Traversal Rung
+4/22/2022	94	1745	Agastya	0	0	1	0	Did not climb
+4/22/2022	94	1914	Soumik	0	2	0	6	High Rung
+4/22/2022	94	1731	Abhishek (subbing for Shovan)	0	1	0	6	Did not climb
+4/22/2022	94	3166	shreyas 	0	0	0	0	Did not climb
+4/22/2022	95	3641	Monesh	0	5	0	12	Traversal Rung
+4/22/2022	95	1023	Agastya	0	5	0	14	Did not climb
+4/22/2022	95	1629	Abhishek (subbing for Shovan)	0	3	0	5	High Rung
+4/22/2022	95	4329	Justin	0	2	0	18	Did not climb
+4/22/2022	96	498	shreyas	0	2	0	2	Did not climb
+4/22/2022	96	4381	Monesh	0	3	0	5	Did not climb
+4/22/2022	96	2147	Agastya	0	2	0	11	Mid Rung
+4/22/2022	95	1477	Abhishek and Soumik (subbing for Shovan)	0	5	0	5	High Rung
+4/22/2022	97	6672	shreyas	0	2	0	9	Mid Rung
+4/22/2022	97	5086	Abhishek	0	2	0	6	Did not climb
+4/22/2022	98	1756	Angela	0	4	0	7	High Rung
+4/22/2022	98	2586	Soumik	0	2	0	9	Traversal Rung
+4/22/2022	98	5903	Abhishek	0	2	0	4	Mid Rung
+4/22/2022	98	1918	Leah	0	1	0	9	Traversal Rung
+4/22/2022	99	1868	Angela	0	3	0	0	High Rung
+4/22/2022	99	3970	Yuvraj	0	2	0	8	Traversal Rung
+4/22/2022	99	8841	Abhishek	0	4	0	8	Did not climb
+4/22/2022	99	5724	Leah	0	2	0	0	Did not climb
+4/22/2022	99	3476	Soumik 	0	4	0	16	Mid Rung
+4/22/2022	100	5422	Leah	0	2	0	6	Traversal Rung
+4/22/2022	100	5114	Yuvraj	0	5	0	6	Mid Rung
+4/22/2022	100	8898	Angela	0	2	0	0	Did not climb
+4/22/2022	100	1828	Soumik	0	1	0	4	Did not climb
+4/22/2022	100	8122	Abhishek	0	2	0	4	Did not climb
+4/22/2022	101	4786	Aditya 	0	1	0	5	Traversal Rung
+4/22/2022	101	2638	Angela	0	4	0	10	Traversal Rung
+4/22/2022	101	5612	Arjun	0	1	0	1	Did not climb
+4/22/2022	101	316	Leah	0	3	0	19	High Rung
+4/22/2022	101	5612	Soumik	0	2	0	3	Did not climb
+4/22/2022	101	694	Abhishek	0	6	0	15	Did not climb
+4/22/2022	102	5089	Aditya 	0	1	1	2	Mid Rung
+4/22/2022	102	1619	Arjun	0	0	0	14	Traversal Rung
+4/22/2022	102	8573	Angela	0	3	0	6	High Rung
+4/22/2022	102	254	Soumik	0	4	0	24	Traversal Rung
+4/22/2022	102	3256	Leah	0	3	0	5	Traversal Rung
+4/22/2022	102	1506	Shovan	0	1	0	10	Did not climb
+4/22/2022	103	1023	Akash 	0	1	0	13	Did not climb
+4/22/2022	103	3166	Brandon	0	2	0	3	Did not climb
+4/22/2022	103	2168	Angela	0	5	0	11	Traversal Rung
+4/22/2022	103	118	Lucky	0	5	0	18	Mid Rung
+4/22/2022	103	8153	Agastya	0	0	0	0	Mid Rung
+4/22/2022	102	2974	Aishwarya	0	2	0	14	Did not climb
+4/22/2022	104	3641	Akash	0	3	0	8	High Rung
+4/22/2022	104	4415	Brandon 	0	2	0	11	Traversal Rung
+4/22/2022	104	1745	Angela	0	0	6	0	Traversal Rung
+4/22/2022	104	2147	Agastya	0	0	0	11	Mid Rung
+4/22/2022	104	6413	Lucky	0	2	0	6	Did not climb
+4/22/2022	105	88	Brandon	0	5	0	15	Traversal Rung
+4/22/2022	104	2557	Aishwarya	0	3	0	8	High Rung
+4/22/2022	105	1816	Angela	0	4	0	8	Did not climb
+4/22/2022	105	2687	Akash	0	3	0	9	Mid Rung
+4/22/2022	105	2601	Lucky	0	0	0	13	Did not climb
+4/22/2022	105	1731	Agastya	0	1	0	11	Traversal Rung
+4/22/2022	105	5809	Aishwarya 	0	0	0	14	Mid Rung
+4/22/2022	106	1771	Akash	0	3	0	17	High Rung
+4/22/2022	106	401	Angela 	0	4	0	11	Mid Rung
+4/22/2022	106	1629	Lucky	0	1	0	3	Did not climb
+4/22/2022	106	1756	Agastya	0	2	0	12	High Rung
+4/22/2022	106	2481	Aishwarya	0	1	0	16	Traversal Rung
+4/22/2022	107	857	Akash	0	1	0	0	Did not climb
+4/22/2022	107	1868	Brandon 	0	4	0	2	Did not climb
+4/22/2022	107	1732	Angela	0	4	0	12	Mid Rung
+4/22/2022	107	4381	Lucky	0	1	0	9	Mid Rung
+4/22/2022	107	4329	Agastya	0	3	0	8	Did not climb
+4/22/2022	107	1914	Aishwarya	0	0	0	6	High Rung
+4/22/2022	108	599	Akash	0	0	0	0	Mid Rung
+4/22/2022	108	5114	Brandon	0	2	0	6	High Rung
+4/22/2022	108	364	Angela	0	3	0	4	Did not climb
+4/22/2022	108	2960	Agastya	0	1	0	13	Traversal Rung
+4/22/2022	108	3970	Lucky	0	1	0	6	Traversal Rung
+4/22/2022	108	2586	Aishwarya	0	0	0	6	Traversal Rung
+4/22/2022	109	8590	Karan👁	0	2	0	4	Did not climb
+4/22/2022	109	694	Kaustubh	0	5	0	15	High Rung
+4/22/2022	109	3459	Celine	0	2	0	6	Traversal Rung
+4/22/2022	109	8898	Justin	0	0	0	0	Did not climb
+4/22/2022	109	498	Jerro	0	0	0	8	High Rung
+4/22/2022	109	8122	Leah	0	1	0	7	Mid Rung
+4/22/2022	110	2638	Jerro	0	1	0	8	Traversal Rung
+4/22/2022	110	8573	Celine	0	2	0	5	High Rung
+4/22/2022	110	1918	Karan🤙🏽	0	0	0	9	Traversal Rung
+4/22/2022	110	3937	Kaustubh	0	3	0	11	Traversal Rung
+4/22/2022	110	3175	Leah	0	2	0	16	Did not climb
+4/22/2022	110	3414	Justin	0	3	0	7	Mid Rung
+4/22/2022	111	7541	Kaustubh	0	2	0	7	Traversal Rung
+4/22/2022	111	2506	Karan💋	0	0	0	8	High Rung
+4/22/2022	110	1828	Jerro	0	1	0	2	Did not climb
+4/22/2022	111	2438	Justin	0	0	0	3	Traversal Rung
+4/22/2022	111	8546	Leah	0	0	0	0	Did not climb
+4/22/2022	111	8841	Jimin	0	2	2	6	Traversal Rung
+4/22/2022	112	316	Karan🦾	0	1	0	13	Mid Rung
+4/22/2022	112	5422	Kaustubh	0	1	0	11	Traversal Rung
+4/22/2022	112	4135	Jimin	0	3	0	1	Did not climb
+4/22/2022	112	86	Leah	0	2	0	7	Traversal Rung
+4/22/2022	112	3476	Jerro	0	5	0	17	Traversal Rung
+4/22/2022	112	2590	Justin	0	2	0	13	High Rung
+4/22/2022	113	2556	Kaustubh	0	1	0	6	Did not climb
+4/22/2022	113	5724	Justin	0	0	0	0	High Rung
+4/22/2022	113	1619	Leah	0	3	0	14	Traversal Rung
+4/22/2022	113	3504	Jerro	0	1	0	7	Did not climb
+4/22/2022	113	5705	Jimin	0	1	0	1	Did not climb
+4/22/2022	113	5612	Karan✌🏽	0	1	0	5	Mid Rung
+4/22/2022	114	4786	Celine	0	1	0	14	Traversal Rung
+4/22/2022	114	1477	Kaustubh	0	2	0	9	Traversal Rung
+4/22/2022	114	5903	Jerro	0	1	0	0	Mid Rung
+4/22/2022	114	5903	Justin	0	0	0	0	Mid Rung
+4/22/2022	114	846	Leah	0	3	0	14	Traversal Rung
+4/22/2022	114	2959	Karan😾🤛	0	2	0	4	Did not climb
+4/22/2022	115	6672	Nandini	0	1	0	5	Did not climb
+4/22/2022	115	1506	Monesh	0	3	0	12	Mid Rung
+4/22/2022	115	4329	Pranav	0	2	0	5	Mid Rung
+4/22/2022	116	2481	Nandini 	0	1	0	14	Did not climb
+4/22/2022	116	4381	Lucky	0	1	0	1	Traversal Rung
+4/22/2022	116	2557	Monesh	0	3	0	11	Traversal Rung
+4/22/2022	116	2168	Sanjana	0	2	0	12	Traversal Rung
+4/22/2022	116	88	Pranav	0	3	0	8	Traversal Rung
+4/22/2022	115	8153	Lucky	1	0	0	0	Mid Rung
+4/22/2022	117	1868	Monesh	0	1	0	0	High Rung
+4/22/2022	117	6413	Pranav	0	2	0	0	Traversal Rung
+4/22/2022	117	8590	Nandini	0	1	1	1	Low Rung
+4/22/2022	117	1756	Sanjana	0	4	0	15	Did not climb
+4/22/2022	117	1868	Lucky	0	1	0	0	Mid Rung
+4/22/2022	118	1918	Nandini	0	3	0	3	Did not climb
+4/22/2022	118	1629	Monesh	0	1	0	8	High Rung
+4/22/2022	118	3256	Pranav	0	2	0	7	Mid Rung
+4/22/2022	118	1816	Sanjana	0	2	0	9	Mid Rung
+4/22/2022	118	1629	Lucky	0	1	0	6	High Rung
+4/22/2022	119	498	Nandini	0	0	5	10	Mid Rung
+4/22/2022	119	3414	Sanjana	0	2	0	12	Did not climb
+4/22/2022	119	1731	Pranav	0	1	0	10	High Rung
+4/22/2022	119	2974	Lucky	0	1	0	15	Did not climb
+4/22/2022	119	2974	Monesh	0	4	0	17	Did not climb
+4/22/2022	120	3641	Nandini	0	4	0	7	Traversal Rung
+4/22/2022	120	2506	Monesh	0	4	0	14	Did not climb
+4/22/2022	120	5809	Pranav	0	1	0	6	Mid Rung
+4/22/2022	120	3459	Sanjana	0	1	0	6	Traversal Rung
+4/22/2022	120	86	Lucky	0	2	0	6	Traversal Rung
+4/22/2022	121	2556	Shovan	0	1	0	0	Did not climb
+4/22/2022	121	1745	shreyas	1	0	0	0	Mid Rung
+4/22/2022	121	8573	sophia 	0	0	0	3	High Rung
+4/22/2022	121	2590	Abhishek	0	3	0	14	Traversal Rung
+4/22/2022	122	5114	shreyas	0	4	0	15	Traversal Rung
+4/22/2022	122	5903	sophia	0	1	0	3	Mid Rung
+4/22/2022	122	5705	Shovan	0	1	0	1	Low Rung
+4/22/2022	122	3937	Abhishek	0	2	0	14	Low Rung
+4/22/2022	123	599	shreyas	1	0	4	0	Did not climb
+4/22/2022	123	5612	Sophia	0	0	0	0	Did not climb
+4/22/2022	123	3175	Shovan	0	2	0	9	High Rung
+4/22/2022	123	316	Abhishek	0	3	0	6	High Rung
+4/22/2022	124	2960	shreyas	0	2	0	12	Traversal Rung
+4/22/2022	124	2438	Shovan	0	1	0	4	Traversal Rung
+4/22/2022	124	5724	Soumik 	0	2	0	5	Mid Rung
+4/22/2022	124	1477	sophia	0	3	0	11	Did not climb
+4/22/2022	124	1914	Abhishek	0	0	0	6	Did not climb
+4/22/2022	125	846	shreyas	0	2	0	13	Traversal Rung
+4/22/2022	125	1619	Abhishek	0	3	0	11	Did not climb
+4/22/2022	125	118	Shovan	0	3	0	0	Did not climb
+4/22/2022	125	5422	sophia	0	1	1	1	Did not climb
+4/22/2022	126	2959	shreyas	0	0	0	0	High Rung
+4/22/2022	126	3476	Shovan	0	5	0	14	Traversal Rung
+4/22/2022	126	2638	Soumik	0	2	0	6	High Rung
+4/22/2022	126	3166	Abhishek	0	2	0	0	Did not climb
+4/22/2022	126	1771	sophia 	0	1	0	12	Traversal Rung
+4/22/2022	127	1732	shreyas	0	4	0	15	Mid Rung
+4/22/2022	127	8841	Shovan 	0	2	0	8	Traversal Rung
+4/22/2022	127	2601	Sophia Chen	0	1	0	5	Traversal Rung
+4/22/2022	127	5089	Soumik	0	1	0	8	Mid Rung
+4/22/2022	127	4135	Abhishek	0	2	0	3	Mid Rung

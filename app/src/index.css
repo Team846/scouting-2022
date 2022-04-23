@@ -1,0 +1,22 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+#container {
+  width: 75vw;
+  margin: 0 auto;
+}
+
+#sortByLinks {
+  width: 100%;
+  margin: 0 auto;
+}
+
+#sortByLinks>a {
+  display: inline-block;
+  margin: 10px 10px;
+}
+
+.team846 {
+  background-color: yellow;
+}
