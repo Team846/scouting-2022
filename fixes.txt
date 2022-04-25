@@ -1,8 +1,30 @@
-match 12 6086 -> 5086
-match 28 859 -> 8590
-match 37 360 -> 316
-match 48 4115 -> 4414
-match 73 6673 -> 6672
-match 77 33506 -> 3256
-match 83 6673 -> 6672
-match 100 5144 -> 5114 Yuvraj.
+match 12 team 6086 -> 5086
+match 28 team 859 -> 857
+match 37 team 360 -> 316
+match 48 team 4115 -> 4414
+match 73 team 6673 -> 6672
+match 77 team 33506 -> 3256
+match 83 team 6673 -> 6672
+match 100 team 5144 -> 5114
+team 3256 match 16 -> 17
+team 2590 match 51 -> 41
+team 3175 match 47 -> 46
+delete match 46 team 5612
+team 846 match 54 -> 53
+team 5422 match 53 -> 54
+team 3970 match 55 -> 54
+team 4381 match 60 -> 59
+team 2586 match 62 -> 60
+team 599 match 41 -> 61
+delete match 77 team 2168 from Aditya
+delete match 78 team 8573 from Agastya
+delete match 78 team 5705 from Vardani
+team 86 match 80 -> 81
+team 1477 match 95 -> 96
+delete match 101 team 5612 from Soumik
+team 2974 match 102 -> 103
+team 1828 match 110 -> 111
+delete match 114 team 5903 from Justin
+delete match 117 team 1868 from Monesh
+delete match 118 team 1629 from Monesh
+delete match 119 team 2974 from Lucky

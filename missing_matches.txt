@@ -1,0 +1,88 @@
+missing team 846 from match 25 -ag
+missing team 694 from match 28 -am
+missing team 2481 from match 27 -am
+missing team 254 from match 26 -am
+missing team 1771 from match 44 -ag
+missing team 1771 from match 26 -am
+
+missing team 694 from match 60
+
+important teams
+missing team 2168 from match 28
+missing team 2481 from match 52
+missing team 2481 from match 75
+missing team 364 from match 92
+missing team 118 from match 93
+missing team 2481 from match 98
+missing team 364 from match 117
+missing team 254 from match 120
+missing team 694 from match 122
+
+
+not important
+missing team 5705 from match 1
+missing team 5724 from match 9
+missing team 4786 from match 10
+missing team 88 from match 24
+missing team 316 from match 25
+missing team 6672 from match 25
+missing team 1731 from match 26
+missing team 2590 from match 26
+missing team 3414 from match 27
+missing team 6413 from match 28
+missing team 1506 from match 30
+missing team 5089 from match 43
+missing team 5903 from match 44
+missing team 8898 from match 45
+missing team 1477 from match 46
+missing team 3459 from match 46
+missing team 5114 from match 47
+missing team 1918 from match 53
+missing team 2638 from match 59
+missing team 1745 from match 73
+missing team 1629 from match 74
+missing team 1477 from match 74
+missing team 5809 from match 77
+missing team 5086 from match 79
+missing team 5089 from match 79
+missing team 3175 from match 80
+missing team 5705 from match 91
+missing team 3175 from match 92
+missing team 2959 from match 92
+missing team 8153 from match 92
+missing team 5809 from match 92
+missing team 2557 from match 93
+missing team 1506 from match 93
+missing team 2687 from match 93
+missing team 857 from match 93
+missing team 8546 from match 95
+missing team 2601 from match 95
+missing team 3504 from match 96
+missing team 1816 from match 96
+missing team 2590 from match 97
+missing team 88 from match 97
+missing team 2960 from match 97
+missing team 3459 from match 97
+missing team 2556 from match 98
+missing team 3937 from match 99
+missing team 7541 from match 100
+missing team 2506 from match 101
+missing team 6672 from match 106
+missing team 5086 from match 114
+missing team 2147 from match 115
+missing team 401 from match 115
+missing team 5089 from match 116
+missing team 2601 from match 117
+missing team 3970 from match 118
+missing team 1023 from match 118
+missing team 8546 from match 119
+missing team 7541 from match 119
+missing team 2687 from match 121
+missing team 1828 from match 121
+missing team 857 from match 123
+missing team 5086 from match 123
+missing team 8898 from match 124
+missing team 3504 from match 125
+missing team 2586 from match 125
+missing team 8122 from match 126
+missing team 4786 from match 127
