@@ -17,9 +17,9 @@ const dbFile string = "db.sqlite3"
 const migrationsDir string = "api/migrations/"
 
 // Open the SQL database and run migrations if necessary.
-func Open() (*sql.DB, error) {
+func Open(event string) (*sql.DB, error) {
 	// Open databse
-	db, err := sql.Open("sqlite3", "file:"+dbFile+"?_foreign_keys=on")
+	db, err := sql.Open("sqlite3", "file:"+"data/"+event+"/"+dbFile+"?_foreign_keys=on")
 	if err != nil {
 		return nil, err
 	}

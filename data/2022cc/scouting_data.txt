@@ -1,0 +1,277 @@
+9/24/2022 10:19:57	2	114	Phoebe Tang	1	0	0	1	Traversal Rung	15 sec	Yes
+9/24/2022 11:41:37	11	114	cindy	0	0	0	12	Traversal Rung	20 seconds	Yes
+9/24/2022 12:14:24	14	114	Khadija	0	0	0	0	Traversal Rung	15 seconds	Yes
+9/24/2022 14:03:42	21	114	Anish	0	0	0	0	Traversal Rung	from start of endgame and go to traversal in the last 3 seconds	Yes
+9/24/2022 15:25:50	27	114	Monesh	0	0	0	5	Mid Rung	They took 5 seconds to align, and slipped up on the climb 	No
+9/24/2022 16:21:55	33	114	cindy	0	0	0	0	Did not climb	no climb	Yes
+9/24/2022 17:02:52	38	2046	Monesh	2	0	0	16	Did not climb	They had a bad alignment and didn’t climb	No
+9/24/2022 10:09:24	1	254	Pranav	5	0	0	25	High Rung	8	Yes
+9/24/2022 12:06:34	13	254	Monesh 	4	0	0	29	Did not climb	Aligned for 5 seconds and filed climb	No
+9/24/2022 13:34:00	18	254	khadija	5	0	0	25	Traversal Rung	10 second	Yes
+9/24/2022 15:33:36	28	254	Monesh	4	0	1	23	Traversal Rung	2 second align, 5 second climb	No
+9/24/2022 16:30:23	34	254	sanjana	2	0	0	13	Did not climb	0	No
+9/25/2022 9:49:19	54	254	Aadharsh	4	0	0	24	Traversal Rung	13 second alignment, 7 second first to last climb	Yes
+9/24/2022 16:42:06	35	3310	lhadija	4	0	0	9	Low Rung	7 seconds, from mid to traverse, traversed after game ended	Yes
+9/24/2022 10:46:47	5	359	Phoebe Tang	1	0	0	7	Traversal Rung	3sec	Yes
+9/24/2022 11:15:36	8	359	Pranav	3	0	0	11	Traversal Rung	7	Yes
+9/24/2022 13:16:42	16	359	cindy	5	0	0	20	Traversal Rung	15 seconds	Yes
+9/24/2022 16:11:24	32	359	cindy	2	0	0	0	Did not climb	no climb	No
+9/24/2022 16:40:17	35	359	srushti	2	0	0	18	Traversal Rung	2 sec alignment 5 sec climb	No
+9/24/2022 10:42:05	4	498	Pranav	2	0	0	3	Did not climb	Did not climb	Yes
+9/24/2022 11:24:48	9	498	sanjana	0	0	0	7	Mid Rung	5 sec	Yes
+9/24/2022 13:28:53	17	498	cindy	2	0	0	3	Mid Rung	15 second align; 5 second climb	Yes
+9/24/2022 14:42:45	23	498	Akash	2	0	0	5	Low Rung	2	No
+9/24/2022 15:24:52	27	498	Akash	1	0	0	8	Mid Rung	2	No
+9/24/2022 10:08:41	1	604	Monesh	3	0	0	15	Traversal Rung	13 seconds	No
+9/24/2022 11:41:07	11	604	Naman	3	0	0	21	Did not climb	None	No
+9/24/2022 13:06:54	15	604	Monesh	2	0	0	18	Traversal Rung	4 seconds align, 7 second climb	No
+9/24/2022 13:51:16	20	604	Agastya	2	0	0	7	Traversal Rung	15 sec	Yes
+9/24/2022 15:43:19	29	604	Monesh	3	0	0	9	Traversal Rung	3 second align. 7 second climb	No
+9/24/2022 17:03:50	38	604	Aishwarya	2	0	0	13	Mid Rung	5	Yes
+9/24/2022 10:48:38	5	649	Pranav	2	0	0	10	Traversal Rung	11	Yes
+9/24/2022 11:13:49	8	649	cindy	2	0	0	12	Traversal Rung	15 seconds; 2 seconds to align	Yes
+9/24/2022 14:04:09	21	649	Agastya	6	0	0	16	Traversal Rung	24	No
+9/24/2022 15:41:58	29	649	Akash	2	0	0	6	Mid Rung	0	No
+9/24/2022 16:48:14	36	649	cindy	2	0	0	5	Did not climb	no climb	Yes
+9/24/2022 17:41:36	42	649	Abhishek	2	0	0	2	Traversal Rung	2-3 second alignment, 14-15 second traversal 	Yes
+9/25/2022 9:47:10	54	649	cindy	2	0	0	0	Did not climb	no climb	Yes
+9/24/2022 10:34:05	3	694	Pranav 	2	0	0	5	High Rung	15	Yes
+9/24/2022 11:23:54	9	694	Pranav	2	0	0	3	Traversal Rung	15	Yes
+9/24/2022 12:14:16	14	694	Monesh	4	0	0	15	Traversal Rung	3 seconds align, 14 second climb	No
+9/24/2022 14:05:20	21	694	Abhishek	5	0	0	8	Traversal Rung	3 seconds alignment time, 16 seconds traversal time	Yes
+9/24/2022 16:11:24	32	694	Akash	3	0	0	13	Traversal Rung	Endgame start and finished at end of 30s	No
+9/24/2022 17:11:47	39	694	Monesh	3	0	0	21	Traversal Rung	3 second align, 17 second climb	No
+9/24/2022 10:57:45	6	696	sanjana	2	0	0	6	Did not climb	0	Yes
+9/24/2022 11:33:20	10	696	Pranav	3	0	0	3	Did not climb	Did not climb	Yes
+9/24/2022 12:13:44	14	696	Cindy	2	0	0	7	Did not climb	They tried but fell off	Yes
+9/24/2022 15:11:44	26	696	Soumik	4	0	1	8	Did not climb	None	No
+9/24/2022 16:39:17	35	696	Akash	4	0	0	15	Did not climb	0	No
+9/24/2022 10:57:22	6	846	Monesh	2	0	1	5	High Rung	1 second alignment, 9 second climb	Yes
+9/24/2022 11:56:58	12	846	Monesh	2	0	0	1	Did not climb	Just alligned for 10 seconds, did not climb	Yes
+9/24/2022 13:17:06	16	846	Khadija	2	0	0	12	Traversal Rung	20	Yes
+9/24/2022 14:17:59	22	846	Anish	2	0	0	9	Traversal Rung	start of endgame, intake got stuck	No
+9/24/2022 15:33:21	28	846	Akash	1	0	0	0	Traversal Rung	5	Yes
+9/24/2022 17:10:47	44	846	Abhishek	2	1	0	8	Traversal Rung	2-3 seconds alignment time, 15 second traversal	Yes
+9/24/2022 10:40:23	4	971	sanjana	2	0	1	11	Mid Rung	2 sec to align 2 sec to climb	Yes
+9/24/2022 11:41:10	11	971	Monesh	6	0	0	23	Did not climb	No climb	No
+9/24/2022 13:43:44	19	971	Abhishek	5	0	0	4	Did not climb	didn’t climb	No
+9/24/2022 14:51:27	24	971	Agastya	5	2	0	25	Did not climb	na	Yes
+9/24/2022 16:01:49	31	971	Akash	3	0	0	21	Mid Rung	Beg of end game and took 5s	No
+9/24/2022 16:30:25	34	971	Agastya	4	0	0	19	Did not climb	na	No
+9/24/2022 10:32:50	3	972	Monesh	0	0	0	0	Did not climb	Did not	No
+9/24/2022 11:04:39	7	972	Monesh	0	0	0	0	Did not climb	No climb	No
+9/24/2022 13:50:54	20	972	Monesh	4	0	2	3	Did not climb	None	No
+9/24/2022 14:41:02	23	972	Agastya	0	0	0	0	Did not climb	na	No
+9/24/2022 15:33:15	28	972	Anish 	2	0	0	0	Did not climb	n	No
+9/24/2022 16:39:45	35	972	Agastya	0	1	0	1	Did not climb	na	No
+9/24/2022 11:00:31	6	973	Pranav	0	0	0	10	Did not climb	Did not climb	Yes
+9/24/2022 11:30:06	10	973	Priyanka	0	0	0	12	Did not climb	-	No
+9/24/2022 13:18:52	16	973	Pranav	0	0	0	14	Did not climb	Did not climb	Yes
+9/24/2022 14:43:23	23	973	Aishwarya	0	0	0	17	Did not climb	NA	No
+9/24/2022 16:12:10	32	973	sanjana	2	0	0	11	Did not climb	0	No
+9/24/2022 16:48:40	36	973	Akash	2	0	0	14	Did not climb	0	No
+9/24/2022 10:32:01	3	1619	Phoebe Tang	6	0	0	17	Mid Rung	2sec	Yes
+9/24/2022 12:05:40	13	1619	Cindy	4	0	0	8	Traversal Rung	15 second	Yes
+9/24/2022 13:52:10	20	1619	Abhishek	4	0	0	10	Traversal Rung	1-2 seconds to align, 14-15 seconds to traverse	No
+9/24/2022 14:51:37	24	1619	Akash	3	0	0	11	Traversal Rung	6	No
+9/24/2022 15:54:03	30	1619	Soumik	5	0	0	15	Traversal Rung	15sec	No
+9/24/2022 16:22:43	33	1619	khadija 	6	0	0	19	Traversal Rung	>25	Yes
+9/25/2022 9:47:02	54	1619	Alyssa	3	0	0	10	Traversal Rung	9?	No
+9/24/2022 10:19:53	2	1678	Aishwarya	3	0	0	22	Traversal Rung	10 secs climb, 2 sec alignmnet	No
+9/24/2022 11:07:29	7	1678	Priyanka 	2	0	0	18	High Rung	5 seconds, start at high	No
+9/24/2022 14:18:35	22	1678	Agastya	3	0	0	26	Traversal Rung	7	Yes
+9/24/2022 16:02:09	31	1678	cindy	5	0	0	19	Did not climb	they were touching the ground	Yes
+9/24/2022 10:19:46	2	1690	Khadija	4	0	0	15	Did not climb	decided not to climb	Yes
+9/24/2022 11:30:27	10	1690	Monesh	6	0	0	9	Did not climb	10 second align, instant failed climb	Yes
+9/24/2022 13:28:10	17	1690	Pranav	5	0	1	7	Traversal Rung	6	Yes
+9/24/2022 15:09:47	26	1690	Akash	5	0	0	18	Did not climb	0	No
+9/25/2022 9:47:27	54	1690	Brandon	6	0	0	14	Traversal Rung	3 sec alignment, 5 sec climb	Yes
+9/24/2022 10:21:40	2	1700	Pranav	2	0	0	5	Did not climb	Did not climb	Yes
+9/24/2022 11:30:38	10	1700	cindy	2	0	0	7	Mid Rung	10 seconds	Yes
+9/24/2022 13:52:15	20	1700	Soumik	2	0	0	4	Mid Rung	2 s	Yes
+9/24/2022 15:34:38	28	1700	Soumik	2	0	0	0	Mid Rung	3sec	Yes
+9/24/2022 16:56:47	37	1700	Monesh	2	0	0	2	Mid Rung	2 seconds to align and 2 seconds to climb	Yes
+9/24/2022 17:20:20	40	1700	Akash	2	0	0	5	Did not climb	0	Yes
+9/24/2022 10:40:05	4	2046	Priyanka	2	0	0	12	Did not climb	-	Yes
+9/24/2022 11:31:53	10	2046	sanjana	2	0	0	2	Traversal Rung	10 sec climb 1 sec alignment	Yes
+9/24/2022 13:34:43	18	2046	sanjana	1	0	0	8	Traversal Rung	4 second climb 2 sec align	No
+9/24/2022 14:04:48	21	2046	Soumik	5	3	0	12	Traversal Rung	4sec	No
+9/24/2022 17:31:06	41	2046	Abhishek	2	0	0	10	Traversal Rung	3-4 seconds alignment, 5-6 second traversal	Yes
+9/24/2022 10:59:38	6	2486	Phoebe Tang 	0	0	0	7	Traversal Rung	6sec	Yes
+9/24/2022 13:42:56	19	2486	Soumik 	4	0	0	4	Traversal Rung	20	No
+9/24/2022 14:19:50	22	2486	Abhishek	1	1	0	5	Traversal Rung	2-3 seconds to align, around 16 to traverse	Yes
+9/24/2022 15:24:47	27	2486	Anish 	3	0	0	16	Traversal Rung	start of endgame to 2 s before game end	No
+9/25/2022 9:34:20	52	2486	Lucky	1	0	0	8	Mid Rung	Started at 18	No
+9/24/2022 10:56:57	6	2813	Priyanka	2	0	0	13	Mid Rung	8 seconds, just launched and stopped at mid	Yes
+9/24/2022 11:41:07	11	2813	Priyanka 	2	0	0	2	High Rung	Start at high. 	Yes
+9/24/2022 13:47:08	19	2813	Monesh	3	0	0	0	High Rung	5 second align. 	Yes
+9/24/2022 15:01:26	25	2813	Abhishek	0	0	0	1	Traversal Rung	2 seconds alignment time, 16 seconds traversal time	Yes
+9/24/2022 15:52:24	30	2813	Anish 	2	0	0	15	High Rung	20s	Yes
+9/24/2022 16:32:53	34	2813	khadija 	4	0	0	6	High Rung	five second alignment, 29 for actual cli mb	Yes
+9/24/2022 10:19:24	2	2910	sanjana 	4	0	0	14	Traversal Rung	8 sec	Yes
+9/24/2022 11:59:38	12	2910	Pranav	4	0	0	17	High Rung	6	No
+9/24/2022 14:58:44	25	2910	Monesh	5	0	0	17	Traversal Rung	5 second align. 7 second climb	No
+9/24/2022 16:15:35	32	2910	Aishwarya	5	1	0	22	Traversal Rung	10 s	No
+9/25/2022 9:49:17	54	2910	Lucky	2	0	0	8	Traversal Rung	started at 20, 5 seconds to align, 10 to traverse	No
+9/24/2022 11:06:26	7	2930	sanjana	2	0	0	8	Mid Rung	5 sec climb	Yes
+9/24/2022 11:42:50	11	2930	Pranav	2	0	0	9	Low Rung	3	Yes
+9/24/2022 14:51:19	24	2930	Monesh	3	0	0	14	Traversal Rung	4 second align. 19 second climb	No
+9/24/2022 15:34:19	28	2930	Abhishek	4	0	0	4	Mid Rung	3 seconds to align, 5-6 seconds to climb	No
+9/24/2022 17:03:23	38	2930	Shovan	3	0	0	5	Traversal Rung	4 sec allignment, 17 sec climb	Yes
+9/25/2022 9:40:30	53	2930	Lucky	2	1	0	12	Mid Rung	3 seconds	No
+9/24/2022 10:47:23	5	3175	Sanjana	2	0	0	12	Did not climb	0	Yes
+9/24/2022 11:56:38	12	3175	Naman	2	0	0	2	Did not climb	None	Yes
+9/24/2022 14:44:01	23	3175	Soumik	1	0	0	11	High Rung	8sec	No
+9/24/2022 16:22:20	33	3175	sanjana	2	0	0	8	Did not climb	0	Yes
+9/24/2022 17:20:58	40	3175	Monesh	2	0	0	7	Mid Rung	4 seconds to align and 7 seconds to climb. It failed to go to high	Yes
+9/25/2022 9:40:49	53	3175	Alyssa	2	0	0	18	Did not climb	They didn't get to the last bar.	No
+9/24/2022 10:57:50	6	3256	Khadija 	2	0	0	9	Did not climb	n/a	Yes
+9/24/2022 11:23:57	9	3256	Monesh	1	0	0	0	Did not climb	No climb	Yes
+9/24/2022 13:35:42	18	3256	cindy	2	0	0	8	Did not climb	no climb	Yes
+9/24/2022 15:10:53	26	3256	Abhishek	2	0	0	0	Did not climb	didn’t climb	Yes
+9/24/2022 16:40:00	35	3256	Shovan 	1	0	0	8	Traversal Rung	10 sec to align, 30 sec from mid traversal 	No
+9/25/2022 9:40:45	53	3256	cindy	3	0	0	0	High Rung	5 second align; 20 second climb	Yes
+9/24/2022 10:19:54	2	3310	Monesh	5	0	0	5	Traversal Rung	3 seconds	Yes
+9/24/2022 11:23:32	9	3310	Naman	2	0	0	8	Did not climb	None	No
+9/24/2022 13:16:23	16	3310	Monesh	4	0	0	27	Traversal Rung	4 second align. 7 second climb	No
+9/24/2022 14:05:49	21	3310	Monesh	3	0	0	23	Traversal Rung	3second align, 14 second climb	No
+9/24/2022 15:52:50	30	3310	Akash	2	0	0	8	Did not climb	0	No
+9/25/2022 9:33:09	52	3310	Alyssa	2	0	0	16	Traversal Rung	7	No
+9/24/2022 11:07:38	7	3476	Pranav	2	0	0	5	Traversal Rung	10	Yes
+9/24/2022 11:58:22	12	3476	sanjana	2	0	0	9	Traversal Rung	7 sec climb 2 sec alignment	Yes
+9/24/2022 13:26:53	17	3476	Monesh	4	1	0	22	Mid Rung	4 second align. 5 second climb	No
+9/24/2022 14:58:47	26	3476	Agastya for Soumik	3	0	0	19	Mid Rung	10	Yes
+9/24/2022 16:13:57	32	3476	Abhishek (subbing for Khadija)	4	0	0	8	Traversal Rung	2-3 seconds alignment time, 10-11 second traversal 	Yes
+9/24/2022 17:02:28	38	3476	Akash	3	0	0	10	Traversal Rung	6	No
+9/25/2022 9:34:08	52	3476	Brandon	5	0	0	8	Mid Rung	3 sec alignment, 2 sec climb	No
+9/24/2022 10:32:48	3	3478	sanjana 	2	0	0	6	Mid Rung	alignment- 5 sec climb 5 sec	No
+9/24/2022 11:12:17	8	3478	Priyanka	2	0	0	15	Did not climb	-	Yes
+9/24/2022 12:13:44	14	3478	Pranav	2	0	1	6	Did not climb	Did not climb 	Yes
+9/24/2022 14:44:12	23	3478	Abhishek	3	0	0	7	Traversal Rung	3-4 seconds alignment time, 20 seconds traversal time	No
+9/24/2022 16:02:02	31	3478	Agastya	2	0	0	12	Did not climb	na	No
+9/24/2022 16:30:22	34	3478	Shovan 	2	0	0	16	Did not climb	0	No
+9/25/2022 9:34:05	52	3478	Nathan	2	0	0	15	Did not climb	Didn’t climb	No
+9/24/2022 10:09:19	1	3647	sanjana	6	0	0	4	Did not climb	0	No
+9/24/2022 11:16:57	8	3647	Monesh	5	0	0	18	Mid Rung	2 second align, 2 second climb	No
+9/24/2022 13:41:12	19	3647	Agastya	3	0	0	7	Did not climb	na	Yes
+9/24/2022 15:44:12	29	3647	Abhishek	4	0	0	12	Mid Rung	10 seconds alignment time, 10 seconds traversal tim	No
+9/24/2022 17:04:33	38	3647	khadija	3	0	0	19	Did not climb	n/a	Yes
+9/25/2022 9:45:42	54	3647	Nathan	2	0	0	0	Did not climb	Didn’t climb	Yes
+9/24/2022 10:48:36	5	3940	Monesh	2	0	0	14	High Rung	4 second alignment, 17 second climb	Yes
+9/24/2022 11:40:48	11	3940	sanjana 	2	0	0	6	Traversal Rung	8 sec climb 2 sec alignment	Yes
+9/24/2022 13:35:14	18	3940	Pranav	2	0	0	5	Low Rung	3	Yes
+9/24/2022 15:10:04	26	3940	Monesh	2	0	0	13	Traversal Rung	6 second align	No
+9/24/2022 16:21:42	33	3940	Akash	1	0	0	16	Traversal Rung	12s	No
+9/24/2022 16:55:42	37	3940	Akash	2	0	0	9	Traversal Rung	5	No
+9/24/2022 11:07:11	7	4255	cindy	0	0	0	2	Traversal Rung	15 second	No
+9/24/2022 12:06:25	13	4255	Phoebe Tang	1	0	0	3	High Rung	8sec	Yes
+9/24/2022 14:54:24	24	4255	Abhishek	1	0	0	0	High Rung	3-4 seconds alignment, 7 seconds traversal (went directly to High)	Yes
+9/24/2022 15:25:21	27	4255	Soumik	0	0	0	0	Low Rung	3	Yes
+9/24/2022 16:49:21	36	4255	Agastya	2	0	0	0	Traversal Rung	15	Yes
+9/24/2022 17:21:34	40	4255	Abhishek	2	0	0	5	Did not climb	didn’t climb	Yes
+9/24/2022 10:48:02	5	4414	Khadija	5	0	0	29	Did not climb	n/a	Yes
+9/24/2022 11:25:01	9	4414	Priyanka 	5	0	0	26	Traversal Rung	Start at high and climb up in about 6 seconds.	No
+9/24/2022 14:19:10	22	4414	me(Soumik)	5	0	0	22	Did not climb	None	No
+9/24/2022 16:02:06	31	4414	Abhishek (subbing for Khadija)	0	3	0	7	Did not climb	didn’t climb	Yes
+9/24/2022 16:29:52	34	4414	cindy	5	0	0	32	Did not climb	it touched the floor	Yes
+9/24/2022 10:34:09	3	4499	Priyanka	6	0	0	15	Traversal Rung	Start high bar, to traversal in about 8 seconds. 	No
+9/24/2022 11:24:10	9	4499	cindy 	2	0	0	8	Traversal Rung	15 seconds	Yes
+9/24/2022 13:07:10	15	4499	cindy	2	0	0	3	Traversal Rung	10 secone	Yes
+9/24/2022 15:54:01	30	4499	Monesh	3	0	0	23	Traversal Rung	5 second align, 7 second climb	No
+9/24/2022 10:40:05	4	5104	Phoebe Tang	2	0	0	7	Traversal Rung	6 sec	Yes
+9/24/2022 12:06:20	13	5104	Khadija	1	0	0	12	Did not climb	tried to at 10 seconds, ran outta tome	Yes
+9/24/2022 13:17:14	16	5104	sanjana	2	0	0	7	Did not climb	10 seconds align 	No
+9/24/2022 15:09:55	26	5104	Anish 	2	0	0	11	Traversal Rung	from start of endgame	Yes
+9/24/2022 15:43:21	29	5104	Soumik	2	0	0	1	Traversal Rung	18sec	Yes
+9/24/2022 16:29:51	34	5104	Akash	2	0	0	0	Did not climb	0	No
+9/25/2022 9:40:27	53	5104	Brandon	2	0	0	7	Traversal Rung	3 sec alignment, 18 sec climb	No
+9/24/2022 10:40:07	4	5507	Khadija	0	0	0	7	Did not climb	n/a	Yes
+9/24/2022 12:07:17	13	5507	sanjana 	2	0	0	7	High Rung	2 sec align 7 sec climb	Yes
+9/24/2022 13:27:45	17	5507	sanjana	1	0	0	4	Did not climb	0	Yes
+9/24/2022 14:04:00	21	5507	Akash	4	0	0	3	Did not climb	N/A	No
+9/24/2022 17:06:20	43	5507	Abhishek	2	0	0	6	Did not climb	didn’t climb	Yes
+9/24/2022 10:40:22	4	5940	Monesh	6	0	0	34	Traversal Rung	7 seconds 	No
+9/24/2022 11:12:52	8	5940	sanjana	2	0	0	16	Traversal Rung	10 sec climb 2 sec align	Yes
+9/24/2022 13:33:58	18	5940	Monesh	2	0	0	27	Did not climb	Did not climb	No
+9/24/2022 14:58:38	25	5940	Anish 	6	0	0	20	High Rung	10 s	No
+9/24/2022 16:22:04	33	5940	Agastya	4	0	0	25	High Rung	5	No
+9/24/2022 16:49:56	36	5940	Khadija	4	0	0	17	Mid Rung	laat ten seconds	Yes
+9/25/2022 9:32:40	52	5940	cindy	6	0	0	15	Traversal Rung	10 second; 3 second align	Yes
+9/24/2022 10:09:50	1	6036	Khadija	2	0	0	7	Did not climb	began 1:30, alligned to mid bar but could not pull up in time	Yes
+9/24/2022 11:30:58	10	6036	Naman	2	0	0	9	High Rung	10 seconds	No
+9/24/2022 12:14:45	14	6036	Naman	2	0	0	10	High Rung	10 seconds	No
+9/24/2022 14:19:21	22	6036	Pranav	2	0	0	7	High Rung	10	Yes
+9/24/2022 16:11:42	32	6036	Agastya	3	0	0	13	High Rung	10	Yes
+9/24/2022 16:48:51	36	6036	Shovan	3	0	0	16	Did not climb	0	No
+9/24/2022 17:22:03	40	6036	Aishwarya 	4	0	0	10	Did not climb	NA	No
+9/24/2022 10:33:13	3	6800	Khadija	2	0	0	21	Traversal Rung	20 second mark alignment, 14 second mark climb	Yes
+9/24/2022 11:59:02	12	6800	Cindy	2	0	0	12	Traversal Rung	15 seconds 	Yes
+9/24/2022 14:18:26	22	6800	Akash	5	0	0	13	Did not climb	0	No
+9/24/2022 15:42:06	29	6800	Anish	1	0	0	19	Did not climb	n	No
+9/24/2022 10:47:44	5	7034	Priyanka 	5	0	0	13	Traversal Rung	Mid rung start, to traversal. 10 seconds. 	No
+9/24/2022 11:12:39	8	7034	Naman 	2	0	0	13	Traversal Rung	 15 Seconds	No
+9/24/2022 13:26:56	17	7034	Khadija	3	0	0	5	Traversal Rung	25 seconds to allign and climb	Yes
+9/24/2022 14:52:17	24	7034	Soumik	2	0	0	7	Traversal Rung	20	No
+9/24/2022 14:52:17	33	7034	Aishwarya	5	0	0	16	Traversal Rung	14	no
+9/24/2022 10:10:52	1	7157	Phoebe Tang	6	0	0	9	Mid Rung	3 sec	Yes
+9/24/2022 11:56:25	12	7157	Priyanka	1	0	0	10	High Rung	High	No
+9/24/2022 14:53:10	24	7157	sanjana	2	0	0	0	Mid Rung	6 sec climb 5 sec align	Yes
+9/24/2022 15:27:10	27	7157	Abhishek	3	0	0	22	Mid Rung	2 seconds to align, 5 seconds to traverse	Yes
+9/24/2022 16:39:06	35	7157	cindy	2	0	0	28	Did not climb	no climb	Yes
+9/25/2022 9:35:53	52	7157	Aadharsh	3	0	0	1	Did not climb	n/a	Yes
+9/24/2022 10:09:48	1	8033	Wayne 😿	3	0	0	16	Did not climb	no climb	No
+9/24/2022 11:07:21	7	8033	Naman	1	0	0	20	Did not climb	None	No
+9/24/2022 12:14:27	14	8033	Phoebe Tang	1	0	0	6	Did not climb	0	Yes
+9/24/2022 14:58:35	25	8033	Akash	1	0	0	7	Did not climb	0	No
+9/24/2022 15:55:04	30	8033	Abhishek	3	0	0	15	Mid Rung	3-4 seconds alignment time, 6-7 seconds traversal time	Yes
+9/24/2022 16:56:10	37	8033	Shovan 	3	0	0	15	Did not climb	0, tried to climb to mid in a few seconds but failed	No
+9/24/2022 17:20:44	40	8033	cindy	2	0	0	10	Did not climb	no climb they fell off	Yes
+9/25/2022 9:42:48	53	8033	Aadharsh	1	0	0	20	Did not climb	Fell off bar. allignment time: 11 seconds	No
+9/25/2022 9:55:47	55	1700	Brandon	2	0	0	0	Did not climb	did not climb	Yes
+9/25/2022 9:55:47	55	359	Alyssa	3	0	0	21	Traversal Rung	5	No
+9/25/2022 9:55:51	55	498	Nathan 	2	0	0	0	Mid Rung	10 secs	Yes
+9/25/2022 9:56:36	55	6800	Aadharsh	3	0	0	7	Traversal Rung	2 second alignment, 9 second first to last climb	No
+9/25/2022 9:57:03	55	971	Soumik	5	0	0	12	High Rung	10	No
+9/25/2022 9:57:39	55	3310	Shovan 	2	0	0	4	Traversal Rung	Quick alignment <5 sec climb from mid to traversal directly.	No
+9/25/2022 10:04:23	56	5507	Nathan	2	0	0	0	Did not climb	Didn’t climb 	Yes
+9/25/2022 10:04:26	56	5940	Alyssa	5	0	0	19	High Rung	9 seconds from first to high	No
+9/25/2022 10:05:05	56	1678	Aadharsh	6	0	0	24	Traversal Rung	24 second alignment, 7 second first to last climb	No
+9/25/2022 10:05:06	56	7157	Shovan	2	0	0	12	Mid Rung	5 sec to align and climb	No
+9/25/2022 10:05:18	56	4499	Soumik	3	0	0	15	Traversal Rung	8	No
+9/25/2022 10:05:23	56	696	Brandon	3	0	0	9	Did not climb	did not climb	No
+9/25/2022 10:17:13	57	846	Brandon	3	0	1	15	High Rung	4 sec to align, 12 sec climb	No
+9/25/2022 10:17:13	57	3478	Aadharsh	4	0	0	20	Did not climb	did not align or climb	No
+9/25/2022 10:17:19	57	3940	Nathan	0	0	0	12	Did not climb	Didn’t climb	No
+9/25/2022 10:17:25	57	2046	Shovan	4	0	0	15	Traversal Rung	5	No
+9/25/2022 10:17:33	57	604	Soumik	3	0	0	15	Traversal Rung	15sec	No
+9/25/2022 10:23:01	58	972	Nathan	0	0	0	0	Did not climb	Didn’t climb	No
+9/25/2022 10:23:48	58	2813	Alyssa	1	0	0	0	Traversal Rung	15	Yes
+9/25/2022 10:24:18	58	4255	Aadharsh	0	0	0	0	Did not climb	23 second alignment but did not climb	Yes
+9/25/2022 10:24:22	58	4414	Brandon	6	0	1	21	Mid Rung	2 sec align, 4 sec climb	No
+9/25/2022 10:25:04	58	7034	Soumik 	5	0	0	4	Traversal Rung	11sec	No
+9/25/2022 10:33:29	59	4499	Nathan	3	0	0	14	Traversal Rung	11 secs	No
+9/25/2022 10:33:29	59	973	Brandon	3	0	0	7	Did not climb	did not climb	Yes
+9/25/2022 10:33:33	59	971	Alyssa	6	0	0	11	Did not climb	N/A	No
+9/25/2022 10:33:37	59	114	Aadharsh	0	0	0	2	Did not climb	did not climb or align	Yes
+9/25/2022 10:34:40	59	3476	Soumik	4	0	0	25	Traversal Rung	13sec	No
+9/25/2022 10:43:26	60	1678	Alyssa	2	0	0	13	Traversal Rung	5	No
+9/25/2022 10:43:41	60	5940	Brandon	3	0	0	15	Traversal Rung	4 sec align, 10 sec climb	No
+9/25/2022 10:43:56	60	254	Aadharsh	4	0	0	24	Traversal Rung	alignment time: 15 seconds climb time: 5 seconds	No
+9/25/2022 10:44:00	60	359	Nathan	3	0	0	11	Traversal Rung	12 secs	No
+9/25/2022 10:44:44	60	694	Soumik	2	0	0	15	Traversal Rung	30sec	No
+9/25/2022 10:56:01	61	696	Aadharsh	1	0	0	0	Did not climb	didnt attempt align or climb	Yes
+9/25/2022 10:56:01	61	2046	Arnav 	2	0	0	13	Mid Rung	Alignment off centered missed max climb was fast around 5-10 seconds	No
+9/25/2022 10:56:06	61	3175	Lucky	2	0	0	15	Mid Rung	Started at 11 	No
+9/25/2022 10:56:15	61	4255	cindy	2	0	0	0	Did not climb	no climb	No
+9/25/2022 10:57:16	61	2910	Abhishek	5	0	0	16	Traversal Rung	6 seconds alignment, 12 seconds traversal	No
+9/25/2022 10:57:48	61	3478	sanjana	0	0	0	9	Traversal Rung	8 sec climb 3 sec align	Yes
+9/25/2022 11:07:11	62	3940	Arnav	2	0	0	9	High Rung	5-10 sec good alignment	Yes
+9/25/2022 11:07:19	62	3256	cindy	2	0	0	0	Did not climb	no climb	Yes
+9/25/2022 11:07:32	62	6036	Aadharsh	6	0	0	8	Did not climb	25 second alignment, did not climb	Yes
+9/25/2022 11:07:40	62	1619	Lucky	4	0	0	11	Traversal Rung	Started at 19, 4 to align, 10 to traverse	No
+9/25/2022 11:08:39	62	5507	Abhishek	2	0	0	6	Did not climb	took 3-4 seconds to align before time ran out	No
+9/25/2022 11:10:32	62	846	sanjana	3	0	0	11	Traversal Rung	10 sec climb 2 sec align	No
+9/25/2022 11:16:00	63	973	Aadharsh	1	0	0	11	Did not climb	did not attempt to climb or align	Yes
+9/25/2022 11:16:43	63	604	Lucky	2	0	0	15	Traversal Rung	Started 22, 1 to align, 14 to traverse	No
+9/25/2022 11:17:12	63	3310	Abhishek	2	0	0	16	Did not climb	4-5 seconds alignment	No
+9/25/2022 11:26:31	64	2930	Abhishek	3	0	0	8	Mid Rung	7 seconds alignment, 8 seconds climb	No

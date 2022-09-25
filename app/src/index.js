@@ -12,7 +12,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <div id="container">
-      <h1>Team 846 Scouting - Galileo</h1>
+      <h1>Team 846 Scouting - Chezy Champs</h1>
 
       <BrowserRouter>
         <Routes>

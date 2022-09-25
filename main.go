@@ -9,10 +9,12 @@ import (
 	"github.com/team846/scouting-2022/api/db"
 )
 
+const eventName string = "2022cc"
+
 const reactBuildDir string = "app/build"
 
 func main() {
-	db, err := db.Open()
+	db, err := db.Open(eventName)
 	if err != nil {
 		fmt.Println("database err: ", err)
 	}
